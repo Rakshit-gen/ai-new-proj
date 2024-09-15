@@ -1,4 +1,5 @@
 "use client";
+/*eslint prefer-const: "off"*/
 import React from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils"
