@@ -24,7 +24,7 @@ const HomePage = () => {
   <div className="mx-auto px-4 lg:flex lg:h-screen lg:items-center">
     <div className="mx-auto max-w-3xl text-center -mt-10">
       <h1
-        className="bg-gradient-to-r from-red-300 to-purple-500 bg-clip-text text-4xl font-extrabold text-transparent z-10"
+        className="bg-gradient-to-r from-red-300 to-purple-500 bg-clip-text text-4xl font-semibold text-transparent z-10 font-mono"
       >
         Compare your code within seconds with AI
 
@@ -32,20 +32,20 @@ const HomePage = () => {
       </h1>
 
       
-      <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
+      <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed font-mono">
         Start using AI to write your code efficiently with the best practices.
       </p>
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">
         <a
-          className="block w-full rounded border border-yellow-600 bg-yellow-400 px-12 py-3 text-sm font-medium text-slate-700 hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto z-10"
+          className="block w-full rounded border border-yellow-600 bg-yellow-400 px-12 py-3 text-sm font-medium text-slate-700 hover:bg-transparent hover:text-white focus:outline-none focus:ring active:text-opacity-75 sm:w-auto z-10 font-mono"
           href="#"
         >
           Get Started
         </a>
 
         <a
-          className="block w-full rounded border border-yellow-600 px-12 py-3 text-sm font-medium text-white hover:text-black hover:bg-yellow-400 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto z-10"
+          className="block w-full rounded border border-yellow-600 px-12 py-3 text-sm font-medium text-white hover:text-black hover:bg-yellow-400 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto z-10 font-mono"
           href="#"
         >
           Learn More
