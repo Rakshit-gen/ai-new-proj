@@ -20,6 +20,7 @@ export default function Home() {
         <TabsDemo></TabsDemo>
         <Footer></Footer>
       </BackgroundBeamsWithCollision>
+      
     </div>
   );
 }

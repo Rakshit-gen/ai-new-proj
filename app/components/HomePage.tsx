@@ -26,7 +26,7 @@ const HomePage = () => {
       <h1
         className="bg-gradient-to-r from-red-300 to-purple-500 bg-clip-text text-4xl font-semibold text-transparent z-10 font-mono"
       >
-        Compare your code within seconds with AI
+        Compare your code within seconds with AI written code
 
         <span className="sm:block bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent z-10"> Make your code efficient. </span>
       </h1>
